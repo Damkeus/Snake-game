@@ -31,7 +31,7 @@ snake_y = grid_height // 2 * grid_size
 snake_direction = "RIGHT"
 
 # Taille de départ
-snake_length = 10
+snake_length = 1
 snake_body = [(snake_x, snake_y)]
 
 # Position initial du fruit
